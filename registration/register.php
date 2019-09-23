@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="header">
-        <h2>register</h2>
+        <h2>registeer</h2>
     </div>
     <form action="register.php" method="post">
         <?php include('errors.php'); ?>
